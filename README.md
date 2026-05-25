@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Aspiring Data & ML Engineer</b> · Turning raw data into intelligent solutions<br/>
-  📍 Vijayawada, India &nbsp;|&nbsp; 🎯 Open to Data Science / ML Engineer roles
+  📍 Guntur, Andhra Pradesh, India &nbsp;|&nbsp; 🎯 Open to Data Science / ML Engineer roles
 </p>
 
 <p align="center">
