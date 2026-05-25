@@ -78,7 +78,7 @@
 I'm actively looking for **Data Science / ML Engineer** roles. If you're hiring or want to collaborate, feel free to reach out!
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sravanthotast/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:thotasravankumar88@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
   <a href="https://sravan698.github.io/Portifolio-site"><b>Portfolio</b></a>
 </p>
