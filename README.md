@@ -1,6 +1,9 @@
-Hi, I'm Sravan Kumar Thota 👋
-Turning raw data into intelligent solutions
-  📍 Guntur, ANdra Pradesh, India  🎯 Open to Data Science / ML Engineer roles, Web Application Roles
+<h1 align="center">Hi, I'm Sravan Kumar Thota 👋</h1>
+
+<p align="center">
+  <b>Aspiring Data & ML Engineer</b> · Turning raw data into intelligent solutions<br/>
+  📍 Vijayawada, India &nbsp;|&nbsp; 🎯 Open to Data Science / ML Engineer roles
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
